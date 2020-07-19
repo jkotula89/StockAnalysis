@@ -16,3 +16,7 @@ Questions I would like to answer are:
 * Are the price targets reasonable indicators for future stock prices?
 * Add news feed to the pipeline (sentiment analysis)
 * Can we spot trend changes or enhancements (because of events)?
+
+Guesses for Industries:
+Bad: Tourism, Air craft & Travel (Ships), Banks (in Q3), Insurances, Large commodities
+Good: Energy, Green stocks, Software/Technology/Automation, Online retail, Lifestyle/Luxury goods
